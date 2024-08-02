@@ -1,0 +1,247 @@
+{
+    "estructuras": [
+        {
+            "nombre": "Cimiento Corrido de Hormigón de Cascote",
+            "unidad": "m³",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 81.0, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 38.4, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.515, "unidad": "m³" },
+                        { "nombre": "Cascote", "cantidad": 0.77, "unidad": "m³" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 105.0, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.45, "unidad": "m³" },
+                        { "nombre": "Cascote", "cantidad": 0.9, "unidad": "m³" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Viga de Fundación",
+            "unidad": "m",
+            "dimensiones": "20cm x 20cm",
+            "variantes": [
+                {
+                    "nombre": "Hormigón de Piedra",
+                    "materiales": [
+                        { "nombre": "Cemento", "cantidad": 12.0, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.026, "unidad": "m³" },
+                        { "nombre": "Piedra", "cantidad": 0.026, "unidad": "m³" },
+                        { "nombre": "Hierro del 10", "cantidad": 4.0, "unidad": "m" },
+                        { "nombre": "Hierro del 4", "cantidad": 3.5, "unidad": "m" },
+                        { "nombre": "Alambre Negro", "cantidad": 0.15, "unidad": "kg" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pilotines",
+            "unidad": "m",
+            "dimensiones": "25cm de diámetro",
+            "variantes": [
+                {
+                    "nombre": "Hormigón de Piedra",
+                    "materiales": [
+                        { "nombre": "Cemento", "cantidad": 14.7, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.032, "unidad": "m³" },
+                        { "nombre": "Piedra", "cantidad": 0.032, "unidad": "m³" },
+                        { "nombre": "Hierro del 10", "cantidad": 3.5, "unidad": "m" },
+                        { "nombre": "Hierro del 4", "cantidad": 3.5, "unidad": "m" },
+                        { "nombre": "Alambre Negro", "cantidad": 0.12, "unidad": "kg" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Tabique de Canto",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 2.0, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 2.1, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.01, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 30, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 2.2, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.012, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 30, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pared de 15cm",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 7.3, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 7.5, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.035, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 60, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 7.7, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.045, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 60, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pared de 20cm",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 13.2, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 6.9, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.065, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 90, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 10.7, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.08, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 90, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pared de 30cm",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 17.1, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 9.9, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.09, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 120, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 15.2, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.115, "unidad": "m³" },
+                        { "nombre": "Ladrillos Comunes", "cantidad": 120, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Tabique de 10cm",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 3.4, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 3.5, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.016, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 30, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 3.8, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.02, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 30, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pared de 18cm",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 8.0, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 8.2, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.039, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 33, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 8.8, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.047, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 33, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Tabique de 10cm (Ladrillos 8x18x33)",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 2.3, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 2.6, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.012, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 15.5, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 2.8, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.015, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 15.5, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pared de 20cm (Ladrillos 8x18x33)",
+            "unidad": "m²",
+            "variantes": [
+                {
+                    "nombre": "Usando Cal y Cemento",
+                    "materiales": [
+                        { "nombre": "Cal", "cantidad": 7.8, "unidad": "kg" },
+                        { "nombre": "Cemento", "cantidad": 8.0, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.037, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 33, "unidad": "unidades" }
+                    ]
+                },
+                {
+                    "nombre": "Usando Cemento de Albañilería",
+                    "materiales": [
+                        { "nombre": "Cemento de Albañilería", "cantidad": 8.5, "unidad": "kg" },
+                        { "nombre": "Arena", "cantidad": 0.045, "unidad": "m³" },
+                        { "nombre": "Ladrillos Huecos", "cantidad": 33, "unidad": "unidades" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
